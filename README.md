@@ -13,3 +13,4 @@ https://mods.factorio.com/mod/metal-and-stars-graphics-2/downloads
 However, both need their factorio version changed to 2.1 in the info.json file.
 Graphics-2 also needs additional icons that were missing, of which I included in a separate zip file. Just merge the two icon folders together, and you should be right as rain.
 
+Hoo boy, final step. you need to get your hands on the original 'Armored Biters' mod.
